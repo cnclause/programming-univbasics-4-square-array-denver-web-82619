@@ -7,6 +7,6 @@ while counter < numbers.length do
   new_numbers << numbers[counter]**2
   puts numbers[counter]
    counter +=1
- puts new_numbers 
+ p new_numbers 
 end
 end
