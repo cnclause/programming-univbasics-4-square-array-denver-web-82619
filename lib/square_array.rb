@@ -5,6 +5,6 @@ counter = 0
 while counter < array.length do
   new_numbers []
  array[counter]**2
- puts new_numbers
+ puts array[counter]
  counter +=1 
 end
